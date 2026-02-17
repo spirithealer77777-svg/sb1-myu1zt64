@@ -21,4 +21,5 @@ export default defineConfig([
     },# npm
 npm install --save-dev eslint-plugin-react-dom
   },
-])
+])# npm
+npm install --save-dev eslint-plugin-react-x
