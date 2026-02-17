@@ -18,6 +18,7 @@ export default defineConfig([
     languageOptions: {
       ecmaVersion: 2020,
       globals: globals.browser,
-    },
+    },# npm
+npm install --save-dev eslint-plugin-react-dom
   },
 ])
